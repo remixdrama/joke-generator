@@ -1,7 +1,10 @@
 const localQuotes=[
-    {
+     {
         "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
         "author": "Thomas Edison, type.fit"
+    }, {
+        "text": "The quick brown fox jump over the lazy dog",
+        "author": "remixdrama"
     },
     {
         "text": "You can observe a lot just by watching.",
